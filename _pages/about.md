@@ -7,7 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is Cody Moser. I am a PhD student in the Department of Cognitive and Information Sciences at UC Merced and a Visiting Fellow in The Music Lab in the School of Psychology at Harvard University. My original background and training was in field biology and bioacoustics where I first began a PhD at Texas A&M University in 2016 to study primate bioacoustics and language evolution. In 2018, I joined [The Music Lab](https://www.themusiclab.org/) under [Samuel Mehr's](https://mehr.cz/) tutelage as a visiting graduate student to work on questions regarding the evolution of infant-directed speech and song. In 2019, I mastered out of my previous PhD program with a thesis on the mimicry of animals by human hunters with [Jeff Winking](https://liberalarts.tamu.edu/anthropology/profile/jeffrey-winking/). I then worked for some time in the think tank circuit in Washington, DC. In 2020, I rejoined academia to work on models of innovation and human institutions with [Paul Smaldino](https://smaldino.com/wp/) at the University of California, Merced, where I am today.
+My name is Cody Moser. I am a PhD student in the Department of Cognitive and Information Sciences at UC Merced and a Visiting Fellow in The Music Lab in the School of Psychology at Harvard University. 
+
+Who am I?
+====
+My original background and training was in field biology and bioacoustics where I first began a PhD at Texas A&M University in 2016 to study primate bioacoustics and language evolution. In 2018, I joined [The Music Lab](https://www.themusiclab.org/) under [Samuel Mehr's](https://mehr.cz/) tutelage as a visiting graduate student to work on questions regarding the evolution of infant-directed speech and song. In 2019, I mastered out of my previous PhD program with a thesis on the mimicry of animals by human hunters with [Jeff Winking](https://liberalarts.tamu.edu/anthropology/profile/jeffrey-winking/). I then worked for some time in the think tank circuit in Washington, DC. In 2020, I rejoined academia to work on models of innovation and human institutions with [Paul Smaldino](https://smaldino.com/wp/) at the University of California, Merced, where I am today.
 
 What do I study?
 ====
