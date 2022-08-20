@@ -21,7 +21,7 @@ My research takes a broad approach to study the evolution of humans and the soci
 
 What else?
 ====
-I also have an amateur interest in Byzantine history, the history and philosophy of science (I am a major fan of Paul Feyerabend), and am learning how to do text scraping of historical documents for citation analysis as a side project.
+I also have an amateur interest in Byzantine history, the history and philosophy of science (I am a major fan of Paul Feyerabend), and am learning how to do text scraping of historical documents for citation analysis as a side project. I also have flintknapping and primitive archery as my favorite hobbies.
 
 Here is a plot I made text-scraping a number of first-edition documents in evolutionary biology following the first ten years after Darwin's Origin of Species from The Gutenberg Project.
 ![Darwin](http://culturologies.co/files/Darwin.png)
