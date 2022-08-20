@@ -10,7 +10,7 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-Click on any of the papers below to find full-text PDFs attached.
+Click on any of the papers below to find full-text PDFs attached. For a comprehensive list of these, please check out [my CV](https://culturologies.co/cv).
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
