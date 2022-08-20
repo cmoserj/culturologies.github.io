@@ -4,7 +4,7 @@ title: "Non-Academic Publications"
 permalink: /non-academic/
 author_profile: true
 ---
-Periodically I will publish some sort of an opinion or a piece on something new in science outside of academic venues. You can find those and a list of my podcast appearance here.
+Periodically I will publish some sort of an opinion or a piece on something new in science outside of academic venues. Those and all of my podcast appearances are listed here.
 
 * My [Wordpress Blog](https://culturologies.wordpress.com/) (30,000 unique visitors since 2018). Popular Posts:
     * [The Meat Paradox: Empathy with Our Food](https://culturologies.wordpress.com/2021/01/01/the-meat-paradox-empathy-with-our-food/)
