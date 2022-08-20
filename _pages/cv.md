@@ -43,30 +43,30 @@ Publications
 Talks and Poster Presentations
 ======
 * 2022
-  * Invited Panelist: Early Career Researcher (ECR) Panel
+  * Invited Panelist: Early Career Researcher (ECR) Panel.
     2022 Big Team Science Conference
 
-  * Poster: The Network Science of Cumulative Innovations
+  * Poster: The Network Science of Cumulative Innovations.
     8th International Conference on Computational Social Science
 
-  * Podium Talk: The Network Science of Cumulative Innovations
+  * Podium Talk: The Network Science of Cumulative Innovations.
     Institute for Humane Studies 2022 Graduate Conference
 
-  * Invited Talk: Acoustic Regularities in Infant-directed Speech and Song Across Cultures 
+  * Invited Talk: Acoustic Regularities in Infant-directed Speech and Song Across Cultures.
     University of Cambridge Centre for Music and Science
 
 * 2021
-  * Podium Talk: Structural and Mechanistic Analogies in Evolutionary Thinking 
+  * Podium Talk: Structural and Mechanistic Analogies in Evolutionary Thinking.
     California Workshop on Evolutionary Social Science
 
-  * Invited Talk: Theory of Mind Towards Non-Human Animals 
+  * Invited Talk: Theory of Mind Towards Non-Human Animals.
     Yale Department of Psychology
 
 * 2019
-  * Poster: Aggressive Mimicry as a Human Hunting Strategy
+  * Poster: Aggressive Mimicry as a Human Hunting Strategy.
     Human Behavior and Evolution Society 31st Annual Conference
 
-  * Poster: Acoustical Regularities in Infant-Direct Vocalizations Worldwide 
+  * Poster: Acoustical Regularities in Infant-Direct Vocalizations Worldwide.
     Acoustical Society of America 177th Meeting
 
 * 2018
@@ -74,7 +74,7 @@ Talks and Poster Presentations
     American Association of Physical Anthropologists 87th Annual Meeting
 
 * 2016
-  * Poster: Anti-Predator Behaviors in Four Species of Nocturnal Strepsirrhine
+  * Poster: Anti-Predator Behaviors in Four Species of Nocturnal Strepsirrhine.
     American Association of Physical Anthropologists 85th Annual Meeting
     Duke Lemur Center 50th Anniversary Scientific Symposium
 
@@ -82,21 +82,22 @@ Talks and Poster Presentations
 Service Positions
 ======
 * 2022-2022
-  * Senior Organizer & Campus Representative 
+  * Senior Organizer & Campus Representative.
     California Workshop on Evolutionary Social Science
 
 * 2021-2022
-  * Graduate Student Mentor
+  * Graduate Student Mentor.
     Cognitive Science Student Association at UC Merced
 
-  * Junior Organizer & Campus Representative
+  * Junior Organizer & Campus Representative.
     California Workshop on Evolutionary Social Science
 
 * 2016-2018
-  * Coordinator
+  * Coordinator.
+    
     Texas A&M Department of Anthropology Graduate-Undergraduate Mentorship Program (GUMP)
 
-  * Mentor
+  * Mentor.
     Texas A&M University GLBT+ Mentorship Program
 
 Grants, Fellowships, and Awards
@@ -118,14 +119,14 @@ Grants, Fellowships, and Awards
 Internships
 ======
 * 2020
-  * Transportation Policy Research Intern
+  * Transportation Policy Research Intern.
     Reason Foundation
 
-  * Poverty and Inequality in California Project Research Intern
+  * Poverty and Inequality in California Project Research Intern.
     Cato Institute
 
 * 2016
-  * Lab Assistant
+  * Lab Assistant.
     Center for Anchored Phylogenomics
 
 Workshops and Training
