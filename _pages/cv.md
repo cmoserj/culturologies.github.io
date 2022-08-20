@@ -94,7 +94,6 @@ Service Positions
 
 * 2016-2018
   * Coordinator.
-    
     Texas A&M Department of Anthropology Graduate-Undergraduate Mentorship Program (GUMP)
 
   * Mentor.
