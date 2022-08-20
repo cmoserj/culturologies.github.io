@@ -23,7 +23,7 @@ Publications
 * 2022
   * <b>Moser, C.</b> & Smaldino, P. E. (In prep). The Network Science of Cumulative Innovations.
 
-  * <b>Moser, C.</b>, Buckner, W., Sarian, M., Winking, J. Aggressive Mimicry and the Evolution of the Human Cognitive Niche. <i>Submitted</i>. https://osf.io/preprints/socarxiv/hbtf7/
+  * <b>Moser, C.</b>, Buckner, W., Sarian, M., Winking, J. Aggressive Mimicry and the Evolution of the Human Cognitive Niche. <i>Submitted</i>. [Preprint: https://osf.io/preprints/socarxiv/hbtf7/](https://osf.io/preprints/socarxiv/hbtf7/)
 
   * Holbrook, C., Yoon, L., Fessler, D. M. T., <b>Moser, C.</b>, Delgado, J. D., Kim, H. (In press). Moral Parochialism and Causal Appraisal of Transgressive Harm in Seoul and Los Angeles. <i>Scientific Reports</i>.
 
