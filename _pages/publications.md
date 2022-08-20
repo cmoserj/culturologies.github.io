@@ -10,6 +10,7 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
+Click on any of the papers below to find full-text PDFs attached.
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
