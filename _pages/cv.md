@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-Here you can find a selection of publications, presentations, service positions, grants, and media coverage of my work. For a full version of my CV, please [download it here](https://culturologies.co/files/Moser_CV.pdf). Please visit my [Publications and Papers](https://culturologies.co/publications) page for copies of all my publications listed below.
+Here you can find a selection of publications, presentations, service positions, grants, and media coverage of my work. For a full version of my CV, [download it here](https://culturologies.co/files/Moser_CV.pdf). Please visit my [Publications and Papers](https://culturologies.co/publications) page for full copies of all of the publications listed below.
 
 Education and Research Experience
 ======
@@ -112,7 +112,7 @@ Grants, Fellowships, and Awards
   * TAMU Department of Anthropology Pilot Research Funding Award - $2,400
   * Murray & Celeste Fasken Chair in Liberal Arts Research Award - $500
 * 2015
-  * Florida State University Homepage Featured Student
+  * Florida State University [Homepage Featured Student](https://news.fsu.edu/student-stars/2015/10/01/cody-moser/)
   * ACC Undergraduate Collaborative Summer Research Award – $5,000 
 
 Internships
