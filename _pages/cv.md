@@ -140,7 +140,7 @@ Workshops and Training
   
 Selected Media Coverage
 ======
-The Guardian: Gaga for goo goo</i>: Wellington named the global capital of baby talk (07/22/2022)
+<i>The Guardian: Gaga for goo goo</i>: [Wellington named the global capital of baby talk](https://www.theguardian.com/world/2022/jul/22/gaga-for-goo-goo-wellington-named-the-global-capital-of-baby-talk) (07/22/2022)
 
 <i>New York Times</i>: Front cover, [‘Parentese’ Is Truly a Lingua Franca, Global Study Finds](https://www.nytimes.com/2022/07/24/science/parentese-babies-global-language.html) (07/25/2022)
 
