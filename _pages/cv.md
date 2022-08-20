@@ -33,13 +33,12 @@ Publications
 
   * Peréz Velilla, A., <b>Moser, C.</b>, Smaldino, P. E. (In press). Hidden Clusters Beyond Ethnic Boundaries. [commentary on Uchiyama et al.]” Behavioral and Brain Sciences.
 
-*Denotes co-principal authorship
-
-<sup>1</sup>Awarded "Feature paper" by journal
-
 * 2021
   * <b>Moser, C.</b>, Ackerman, J., Dayer, A., Proksch, S., & Smaldino, P. E. (2021). Why don't cockatoos have war songs? [commentary on Mehr et al. and Savage et al.]. Behavioral and Brain Sciences, 44.
 
+*Denotes co-principal authorship
+
+<sup>1</sup>Awarded "Feature paper" by journal
   
 Talks and Poster Presentations
 ======
