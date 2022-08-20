@@ -13,7 +13,7 @@ My original background and training was in field biology and bioacoustics. Durin
 
 What do I study?
 ====
-My research takes a broad approach to study the evolution of humans and the societies we live in. While I started as a primate sensory ecologist, in recent years my research interests have pivoted to the difficult problem of modeling innovation. To this end, I have conducted research in three, broad, disparate regions:
+My research takes a broad approach to study the evolution of humans and the societies we live in. In recent years my research interests have pivoted to the difficult problem of modeling innovation. To this end, I have conducted research in three, broad, disparate regions:
 
   1. My current research is largely reflected in the fields of cultural evolution and organizational theory where I research innovation from a "collective intelligence" perspective. My main research questions here primarily relate to the structure of organizations and their lifespans where I ask: what are the processes leading to the evolution of organizational structure, how can organizations and groups of agents organize themselves to best leverage information in their environments, and what structures make institutions and groups vulnerable to collapse? I approach these questions primarily from an agent-based modeling and theoretical standpoint.
   2. A second branch of my research is situated in evolutionary psychology and langauge evolution from a bioacoustic and sensory ecology perspective. Here I have asked questions about the origins of language, proto-language, and music. My approach in this area has mostly involved large-scale corpus research of both acoustic and text-based datasets. 
