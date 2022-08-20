@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+Here you can find a selection of publications, presentations, service positions, grants, and media coverage of my work. For a full version of my CV, please [download it here](https://culturologies.co/files/Moser_CV.pdf).
 
 Education and Research Experience
 ======
