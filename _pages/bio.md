@@ -17,11 +17,12 @@ My research takes a broad approach to study the evolution of humans and the soci
 
   1. My current research is largely reflected in the fields of cultural evolution and organizational theory where I research innovation from a "collective intelligence" perspective. My main research questions here primarily relate to the structure of organizations and their lifespans where I ask: what are the processes leading to the evolution of organizational structure, how can organizations and groups of agents organize themselves to best leverage information in their environments, and what structures make institutions and groups vulnerable to collapse? I approach these questions primarily from an agent-based modeling and theoretical standpoint.
   2. A second branch of my research is situated in evolutionary psychology and langauge evolution from a bioacoustic and sensory ecology perspective. Here I have asked questions about the origins of language, proto-language, and music. My approach in this area has mostly involved large-scale corpus research of both acoustic and text-based datasets. 
-  3. Finally, I have a broad interest in the broad concept of “modularity” as it pertains to neural networks, collective intelligence, gene regulatory networks, and human mental adaptations. Here I take a largely philosophical approach to the problem, seeking to find generalities between questions of innovation, adaptation, and evolvability in these disparate systems.
+  3. Finally, I have an interest in the broad concept of “modularity” as it pertains to neural networks, collective intelligence, gene regulatory networks, and human mental adaptations. Here I take a largely philosophical approach to the problem, seeking to find generalities between questions of innovation, adaptation, and evolvability in these disparate systems.
 
 What else?
 ====
 I also have an amateur interest in Byzantine history, the history and philosophy of science (I am a major fan of Paul Feyerabend), and am learning how to do text scraping of historical documents for citation analysis as a side project. I also have flintknapping and primitive archery as my favorite hobbies.
 
 Here is a plot I made text-scraping a number of first-edition documents in evolutionary biology following the first ten years after Darwin's Origin of Species. I am interested in the relationship between path dependence and innovation and would like to identify people who punch above their weight that history has perhaps forgottten.
+
 ![Darwin](http://culturologies.co/images/Darwin.jpg)
