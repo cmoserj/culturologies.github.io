@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: "Bio"
+  - title: "About"
     url: /bio/
 
   - title: "Publications and Papers"
@@ -12,5 +12,5 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Blog"
+  - title: "Wordpress Blog"
     url: https://culturologies.wordpress.com/
