@@ -21,20 +21,21 @@ Education and Research Experience
 Publications
 ======
 * 2022
-  * Moser, C. & Smaldino, P. E. (In prep). The Network Science of Cumulative Innovations.
+  * <b>Moser, C.</b> & Smaldino, P. E. (In prep). The Network Science of Cumulative Innovations.
 
-  * Moser, C., Buckner, W., Sarian, M., Winking, J. Aggressive Mimicry and the Evolution of the Human Cognitive Niche. Submitted. https://osf.io/preprints/socarxiv/hbtf7/
+  * <b>Moser, C.</b>, Buckner, W., Sarian, M., Winking, J. Aggressive Mimicry and the Evolution of the Human Cognitive Niche. Submitted. https://osf.io/preprints/socarxiv/hbtf7/
 
-  * Holbrook, C., Yoon, L., Fessler, D. M. T., Moser, C., Delgado, J. D., Kim, H. (In press). Moral Parochialism and Causal Appraisal of Transgressive Harm in Seoul and Los Angeles. Scientific Reports.
+  * Holbrook, C., Yoon, L., Fessler, D. M. T., <b>Moser, C.</b>, Delgado, J. D., Kim, H. (In press). Moral Parochialism and Causal Appraisal of Transgressive Harm in Seoul and Los Angeles. Scientific Reports.
 
-  * Hilton, C. B., *Moser, C. J., Bertolo, M., Lee-Rubin, H., Amir, D., Bainbridge, C. M., ... & Mehr, S. A. (2022). Acoustic regularities in infant-directed speech and song across cultures. Nature Human Behaviour, 1-12.
+  * Hilton, C. B., <b>Moser, C. J.</b><sup>1</sup>, Bertolo, M., Lee-Rubin, H., Amir, D., Bainbridge, C. M., ... & Mehr, S. A. (2022). Acoustic regularities in infant-directed speech and song across cultures. Nature Human Behaviour, 1-12.
 
-  * Moser, C., & Smaldino, P. E. (2022). Organizational Development as Generative Entrenchment. Entropy, 24(7), 879.
+  * <b>Moser, C.</b><sup>2</sup>& Smaldino, P. E. (2022). Organizational Development as Generative Entrenchment. Entropy, 24(7), 879.
 
-  * Peréz Velilla, A., Moser, C., Smaldino, P. E. (In press). Hidden Clusters Beyond Ethnic Boundaries. [commentary on Uchiyama et al.]” Behavioral and Brain Sciences.
-
+  * Peréz Velilla, A., <b>Moser, C.</b>, Smaldino, P. E. (In press). Hidden Clusters Beyond Ethnic Boundaries. [commentary on Uchiyama et al.]” Behavioral and Brain Sciences.
+<sup>1</sup> Denotes co-principal authorship
+<sup>2</sup> Awarded "Feature paper" by journal
 * 2021
-  * Moser, C., Ackerman, J., Dayer, A., Proksch, S., & Smaldino, P. E. (2021). Why don't cockatoos have war songs? [commentary on Mehr et al. and Savage et al.]. Behavioral and Brain Sciences, 44.
+  * <b>Moser, C.</b>, Ackerman, J., Dayer, A., Proksch, S., & Smaldino, P. E. (2021). Why don't cockatoos have war songs? [commentary on Mehr et al. and Savage et al.]. Behavioral and Brain Sciences, 44.
 
   
 Talks and Poster Presentations
