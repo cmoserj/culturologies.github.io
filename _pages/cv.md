@@ -27,13 +27,16 @@ Publications
 
   * Holbrook, C., Yoon, L., Fessler, D. M. T., <b>Moser, C.</b>, Delgado, J. D., Kim, H. (In press). Moral Parochialism and Causal Appraisal of Transgressive Harm in Seoul and Los Angeles. Scientific Reports.
 
-  * Hilton, C. B., <b>Moser, C. J.</b><sup>1</sup>, Bertolo, M., Lee-Rubin, H., Amir, D., Bainbridge, C. M., ... & Mehr, S. A. (2022). Acoustic regularities in infant-directed speech and song across cultures. Nature Human Behaviour, 1-12.
+  * <sup>1</sup>Hilton, C. B., <b>Moser, C. J.</b>, Bertolo, M., Lee-Rubin, H., Amir, D., Bainbridge, C. M., ... & Mehr, S. A. (2022). Acoustic regularities in infant-directed speech and song across cultures. Nature Human Behaviour, 1-12.
 
-  * <b>Moser, C.</b><sup>2</sup>& Smaldino, P. E. (2022). Organizational Development as Generative Entrenchment. Entropy, 24(7), 879.
+  * <sup>2</sup><b>Moser, C.</b>& Smaldino, P. E. (2022). Organizational Development as Generative Entrenchment. Entropy, 24(7), 879.
 
   * Peréz Velilla, A., <b>Moser, C.</b>, Smaldino, P. E. (In press). Hidden Clusters Beyond Ethnic Boundaries. [commentary on Uchiyama et al.]” Behavioral and Brain Sciences.
+
 <sup>1</sup> Denotes co-principal authorship
+
 <sup>2</sup> Awarded "Feature paper" by journal
+
 * 2021
   * <b>Moser, C.</b>, Ackerman, J., Dayer, A., Proksch, S., & Smaldino, P. E. (2021). Why don't cockatoos have war songs? [commentary on Mehr et al. and Savage et al.]. Behavioral and Brain Sciences, 44.
 
