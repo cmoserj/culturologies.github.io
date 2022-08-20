@@ -44,39 +44,39 @@ Talks and Poster Presentations
 ======
 * 2022
   * Invited Panelist: Early Career Researcher (ECR) Panel.
-    2022 Big Team Science Conference
+    <i>2022 Big Team Science Conference</i>
 
   * Poster: The Network Science of Cumulative Innovations.
-    8th International Conference on Computational Social Science
+    <i>8th International Conference on Computational Social Science</i>
 
   * Podium Talk: The Network Science of Cumulative Innovations.
-    Institute for Humane Studies 2022 Graduate Conference
+    <i>Institute for Humane Studies 2022 Graduate Conference</i>
 
   * Invited Talk: Acoustic Regularities in Infant-directed Speech and Song Across Cultures.
-    University of Cambridge Centre for Music and Science
+    <i>University of Cambridge Centre for Music and Science</i>
 
 * 2021
   * Podium Talk: Structural and Mechanistic Analogies in Evolutionary Thinking.
-    California Workshop on Evolutionary Social Science
+    <i>California Workshop on Evolutionary Social Science</i>
 
   * Invited Talk: Theory of Mind Towards Non-Human Animals.
-    Yale Department of Psychology
+    <i>Yale Department of Psychology</i>
 
 * 2019
   * Poster: Aggressive Mimicry as a Human Hunting Strategy.
-    Human Behavior and Evolution Society 31st Annual Conference
+    <i>Human Behavior and Evolution Society 31st Annual Conference</i>
 
   * Poster: Acoustical Regularities in Infant-Direct Vocalizations Worldwide.
-    Acoustical Society of America 177th Meeting
+    <i>Acoustical Society of America 177th Meeting</i>
 
 * 2018
   * Poster: Echolocation in a Nocturnal Primate?
-    American Association of Physical Anthropologists 87th Annual Meeting
+    <i>American Association of Physical Anthropologists 87th Annual Meeting</i>
 
 * 2016
   * Poster: Anti-Predator Behaviors in Four Species of Nocturnal Strepsirrhine.
-    American Association of Physical Anthropologists 85th Annual Meeting
-    Duke Lemur Center 50th Anniversary Scientific Symposium
+    <i>American Association of Physical Anthropologists 85th Annual Meeting</i>,
+    <i>Duke Lemur Center 50th Anniversary Scientific Symposium</i>
 
 
 Service Positions
@@ -140,14 +140,15 @@ Workshops and Training
   
 Selected Media Coverage
 ======
-The Guardian: Gaga for goo goo: Wellington named the global capital of baby talk (07/22/2022)
+The Guardian: Gaga for goo goo</i>: Wellington named the global capital of baby talk (07/22/2022)
 
-New York Times: Front cover, ‘Parentese’ Is Truly a Lingua Franca, Global Study Finds (07/25/2022)
-The Today Show: Baby Talk is Universal (07/25/2022)
+<i>New York Times</i>: Front cover, [‘Parentese’ Is Truly a Lingua Franca, Global Study Finds](https://www.nytimes.com/2022/07/24/science/parentese-babies-global-language.html) (07/25/2022)
 
-NPR, All Things Considered: The science is in: Everyone recognizes an uses baby talk with infants (07/31/2022)
+<i>The Today Show</i>: [Baby Talk is Universal](https://www.youtube.com/watch?v=EidivH52cRw) (07/25/2022)
 
-NPR, Goats and Soda: Scholars confirm what itsy bitsy babies around the world already know (08/14/2022)
+<i>NPR, All Things Considered</i>: [The science is in: Everyone recognizes an uses baby talk with infants](https://www.npr.org/2022/07/23/1113206642/baby-talk-parenting-language-research) (07/31/2022)
+
+<i>NPR, Goats and Soda</i>: [Scholars confirm what itsy bitsy babies around the world already know](https://www.npr.org/sections/goatsandsoda/2022/08/14/1116524222/scholars-confirm-what-itsy-bitsy-babies-around-the-world-already-know) (08/14/2022)
   
 Peer Review Contributions
 ======
