@@ -13,5 +13,5 @@ I work on questions related to the evolution of human behavior and human institu
 
 Please reach out to me either via [email](mailto:cmoser2@ucmerced.edu) or on [Twitter](https://twitter.com/LTF_01) if you would like to chat.
 
-In the meantime, here's a collaboration network I made of [my department](https://cogsci.ucmerced.edu/).
-![Department](http://culturologies.co/files/Dept.png)
+In the meantime, here's a collaboration network I made of [my department](https://cogsci.ucmerced.edu/). We have 52 nodes, an average clustering coefficient of .16, and a path length of 3.6. Believe it or not, but in my own models of innovation, I have yet to find an organization as innovative as ours! You can download the edge list [here](https://culturologies.co/files/Department.csv).
+![Department](http://culturologies.co/images/Dept.png)
