@@ -1,5 +1,5 @@
 ---
-title: "Why don't cockatoos have war songs?"
+title: "Why don\'t cockatoos have war songs?"
 collection: publications
 permalink: /publication/2021-09-30-cockatoos
 excerpt: 'We suggest that the accounts offered by the target articles could be strengthened by acknowledging the role of group selection and cultural niche construction in shaping the evolutionary trajectory of human music. We argue that group level traits and highly variable cultural niches can explain the diversity of human song, but the target articles' accounts are insufficient to explain such diversity.'
