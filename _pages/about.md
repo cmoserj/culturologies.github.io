@@ -11,4 +11,4 @@ My name is Cody Moser. I am a PhD student in the Department of Cognitive and Inf
 
 I work on questions related to the evolution of human behavior and human institutions. To do this, I build agent-based models and perform large-scale corpus analysis of text and audio data. You can find more information about me and my research under my Biography and can read all of my papers under Publications and Papers.
 
-Please reach out to me either via email or on Twitter if you would like to chat.
+Please reach out to me either via [email](mailto:cmoser2@ucmerced.edu) or on [Twitter](https://twitter.com/LTF_01) if you would like to chat.
