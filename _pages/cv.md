@@ -81,9 +81,12 @@ Talks and Poster Presentations
 
 Service Positions
 ======
-* 2022-2022
+* 2022-2023
   * Senior Organizer & Campus Representative.
     California Workshop on Evolutionary Social Science
+
+* 2021-Present
+  * UC Merced Cognitive Science [Department Twitter Account](https://twitter.com/UCMCogSci)
 
 * 2021-2022
   * Graduate Student Mentor.
