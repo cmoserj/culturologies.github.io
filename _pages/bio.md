@@ -21,7 +21,7 @@ My research takes a broad approach to study the evolution of humans and the soci
 
 What else?
 ====
-I also have an amateur interest in Byzantine history, the history and philosophy of science (I am a major fan of Paul Feyerabend), and am learning to text scrape historical documents for citation analysis for fun. I also have flintknapping and primitive archery as my favorite hobbies.
+I also have an amateur interest in Byzantine history and the history of Medieval institutions, the history and philosophy of science (I am a major fan of Paul Feyerabend), and am learning to text scrape historical documents for citation analysis for fun. I also have flintknapping and primitive archery as my favorite hobbies.
 
 Here is a plot I made by text-scraping a number of first-edition documents in evolutionary biology published during the first ten years after Darwin's Origin of Species. I am interested in the relationship between path dependence and innovation and would like to identify people who punch above their weight that history may have forgottten.
 

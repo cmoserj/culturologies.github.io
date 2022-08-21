@@ -33,7 +33,7 @@ Periodically I will publish some sort of an opinion or a piece on something new 
     * 10/19: [Joker: Age of Discord](http://www.lapsuslima.com/joker-age-of-discord/)
 
 * Quillette
-    * 6/18: [The Dangers of Dugin’s Particularism](https://quillette.com/2018/06/20/the-dangers-of-dugins-particularism/)
+    * 6/18: [The Dangers of Dugin’s Particularism](https://web.archive.org/web/20210917105801/https://quillette.com/2018/06/20/the-dangers-of-dugins-particularism/)
 
 * Reason.org
     * 6/20: [Driver’s License Suspensions and Fees Unfairly Impact the Poor And Are in Need of Reform](https://reason.org/commentary/drivers-license-suspensions-and-fees-unfairly-impact-the-poor-and-are-in-need-of-reform/)
