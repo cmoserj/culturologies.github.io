@@ -29,7 +29,7 @@ Publications
 
   * *Hilton, C. B., <b>*Moser, C. J.</b>, Bertolo, M., Lee-Rubin, H., Amir, D., Bainbridge, C. M., ... & Mehr, S. A. (2022). Acoustic regularities in infant-directed speech and song across cultures. <i>Nature Human Behaviour</i>, 1-12.
 
-  * <sup>1</sup><b> Moser, C.</b>& Smaldino, P. E. (2022). Organizational Development as Generative Entrenchment. <i>Entropy, 24</i>(7), 879.
+  * <sup>1</sup><b>Moser, C.</b>& Smaldino, P. E. (2022). Organizational Development as Generative Entrenchment. <i>Entropy, 24</i>(7), 879.
 
   * Peréz Velilla, A., <b>Moser, C.</b>, Smaldino, P. E. (In press). Hidden Clusters Beyond Ethnic Boundaries. [commentary on Uchiyama et al.]” <i>Behavioral and Brain Sciences</i>.
 
