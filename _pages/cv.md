@@ -25,7 +25,7 @@ Publications
 
   * <b>Moser, C.</b>, Buckner, W., Sarian, M., Winking, J. Aggressive Mimicry and the Evolution of the Human Cognitive Niche. <i>Submitted</i>. Preprint: [https://osf.io/preprints/socarxiv/hbtf7/](https://osf.io/preprints/socarxiv/hbtf7/)
 
-  * Holbrook, C., Yoon, L., Fessler, D. M. T., <b>Moser, C.</b>, Delgado, J. D., Kim, H. (In press). Moral Parochialism and Causal Appraisal of Transgressive Harm in Seoul and Los Angeles. <i>Scientific Reports</i>.
+  * Holbrook, C., Yoon, L., Fessler, D. M. T., <b>Moser, C.</b>, Delgado, J. D., Kim, H. (2022). Moral Parochialism and Causal Appraisal of Transgressive Harm in Seoul and Los Angeles. <i>Scientific Reports</i>,<i>12</i>, 14227.
 
   * *Hilton, C. B., <b>*Moser, C. J.</b>, Bertolo, M., Lee-Rubin, H., Amir, D., Bainbridge, C. M., ... & Mehr, S. A. (2022). Acoustic regularities in infant-directed speech and song across cultures. <i>Nature Human Behaviour</i>, 1-12.
 
