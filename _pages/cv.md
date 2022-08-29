@@ -52,8 +52,11 @@ Talks and Poster Presentations
   * Podium Talk: The Network Science of Cumulative Innovations.
     <i>Institute for Humane Studies 2022 Graduate Conference</i>
 
-  * Invited Talk: Acoustic Regularities in Infant-directed Speech and Song Across Cultures.
+  * Invited Talk: Acoustic Regularities in Infant-Directed Speech and Song Across Cultures.
     <i>University of Cambridge Centre for Music and Science</i>
+
+  * Invited Talk: Acoustic Regularities in Infant-Directed Speech and Song Across Cultures
+    <i>UC Merced Developmental Psychology Colloquium</i>
 
 * 2021
   * Podium Talk: Structural and Mechanistic Analogies in Evolutionary Thinking.
