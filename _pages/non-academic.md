@@ -6,8 +6,6 @@ author_profile: true
 ---
 Periodically I will publish some sort of an opinion or a piece on something new in science outside of academic venues. Those and all of my podcast appearances are listed here.
 
-* My [Substack](https://culturologies.substack.com/)
-
 * My [Wordpress Blog](https://culturologies.wordpress.com/) (30,000 unique visitors since 2018):
     * [The Meat Paradox: Empathy with Our Food](https://culturologies.wordpress.com/2021/01/01/the-meat-paradox-empathy-with-our-food/)
     * [The Enigma of Stephen Jay Gould](https://culturologies.wordpress.com/2020/04/08/the-enigma-of-stephen-jay-gould/)
@@ -16,6 +14,8 @@ Periodically I will publish some sort of an opinion or a piece on something new 
     * [David Reich and The New York Times](https://culturologies.wordpress.com/2019/01/19/david-reich-and-the-new-york-times/)
     * [Mystery of the Koolakamba](https://culturologies.wordpress.com/2018/12/07/mystery-of-the-koolakamba/)
     * [Neanderthal Language Series](https://culturologies.wordpress.com/2018/06/27/did-neanderthals-have-language-introduction-and-terms-glossary/)
+
+* My [Substack](https://culturologies.substack.com/)
 
 * My [Medium Blog](https://medium.com/@LTF_01): 
     * [Against Scientism](https://medium.com/@LTF_01/against-scientism-5335fbfaeacf)
