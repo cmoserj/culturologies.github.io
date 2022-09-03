@@ -15,9 +15,10 @@ Periodically I will publish some sort of an opinion or a piece on something new 
     * [Mystery of the Koolakamba](https://culturologies.wordpress.com/2018/12/07/mystery-of-the-koolakamba/)
     * [Neanderthal Language Series](https://culturologies.wordpress.com/2018/06/27/did-neanderthals-have-language-introduction-and-terms-glossary/)
 
+* My [Substack](https://culturologies.substack.com/) (Not often updated)
+
 * My [Medium Blog](https://medium.com/@LTF_01): 
     * [Against Scientism](https://medium.com/@LTF_01/against-scientism-5335fbfaeacf)
-
 
 * Areo Magazine
     * 6/18: [The Selfish Nature of Human Cooperation](https://areomagazine.com/2018/06/01/the-selfish-nature-of-human-cooperation/)
