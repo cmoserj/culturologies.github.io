@@ -31,7 +31,7 @@ Publications
 
   * <sup>1</sup><b>Moser, C.</b>& Smaldino, P. E. (2022). Organizational Development as Generative Entrenchment. <i>Entropy, 24</i>(7), 879.
 
-  * Peréz Velilla, A., <b>Moser, C.</b>, Smaldino, P. E. (In press). Hidden Clusters Beyond Ethnic Boundaries. [commentary on Uchiyama et al.]” <i>Behavioral and Brain Sciences</i>.
+  * Peréz Velilla, A., <b>Moser, C.</b>, Smaldino, P. E. (2022). Hidden Clusters Beyond Ethnic Boundaries. [commentary on Uchiyama et al.]” <i>Behavioral and Brain Sciences, 45</i>.
 
 * 2021
   * <b>Moser, C.</b>, Ackerman, J., Dayer, A., Proksch, S., & Smaldino, P. E. (2021). Why don't cockatoos have war songs? [commentary on Mehr et al. and Savage et al.]. <i>Behavioral and Brain Sciences, 44</i>.
