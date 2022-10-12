@@ -164,6 +164,8 @@ Evolution and Human Behavior
 
 Cognition and Emotion
 
+Evolutionary Human Sciences
+
 Professional Memberships
 ======
 California Workshop on Evolutionary Social Sciences
