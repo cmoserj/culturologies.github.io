@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is Cody Moser. I am a PhD student in the [Department of Cognitive and Information Sciences](https://cogsci.ucmerced.edu/) at UC Merced and an Affiliated Graduate Student in [The Music Lab](https://www.themusiclab.org/) in the School of Psychology at Harvard University. 
+My name is Cody Moser. I am a PhD student in the [Department of Cognitive and Information Sciences](https://cogsci.ucmerced.edu/) at UC Merced and a Visiting Fellow in the Harvard University Graduate School of Arts and Sciences.
 
 I work on questions related to the evolution of human behavior and human institutions. To do this, I build agent-based models and perform large-scale corpus analysis of text and audio data. You can find more information about me and my research under my [Biography](https://culturologies.co/bio) and can read all of my papers under [Publications and Papers](https://culturologies.co/publications).
 
