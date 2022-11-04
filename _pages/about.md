@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is Cody Moser. I am a PhD student in the [Department of Cognitive and Information Sciences](https://cogsci.ucmerced.edu/) at UC Merced, a 2022-2023 [Oskar Morgenstern Fellow}(https://asp.mercatus.org/students#4) at The Mercatus Center at George Mason University, and a Visiting Fellow in the Harvard University Graduate School of Arts and Sciences.
+My name is Cody Moser. I am a PhD student in the [Department of Cognitive and Information Sciences](https://cogsci.ucmerced.edu/) at UC Merced, a 2022-2023 [Oskar Morgenstern Fellow](https://asp.mercatus.org/students#4) at The Mercatus Center at George Mason University, and a Visiting Fellow in the Harvard University Graduate School of Arts and Sciences.
 
 I work on questions related to the evolution of human behavior and human institutions. To do this, I build agent-based models and perform large-scale corpus analysis of text and audio data. You can find more information about me and my research under my [Biography](https://culturologies.co/bio) and can read all of my papers under [Publications and Papers](https://culturologies.co/publications).
 
