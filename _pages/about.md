@@ -15,3 +15,5 @@ Please reach out to me either via [email](mailto:cmoser2@ucmerced.edu) or on [Tw
 
 In the meantime, here's a collaboration network I made of my department. We have 52 nodes, an average clustering coefficient of .16, and a path length of 3.6. In my work on innovation, I have yet to find an organization of this size that is as innovative as ours! You can download the edge list [here](https://culturologies.co/files/Department.csv).
 ![Department](http://culturologies.co/images/Dept22.png)
+
+<em>The strong message for successful ongoing adaptive evolution is ‘Keep a masterpiece and, at the same time, continue to explore adaptive space with mutational variants.’</em> - [Toquenaga & Wade, 1996](https://culturologies.co/files/toquenaga1996.pdf)
