@@ -44,4 +44,4 @@ Periodically I will publish some sort of an opinion or a piece on something new 
     * 3/20: [Brown Pundits](https://www.brownpundits.com/2020/03/10/browncast-episode-83-an-evolutionary-anthropologist-on-the-gre-bo-winegard-and-the-nature-of-his-discipline/): An evolutionary anthropologist on the GRE, Bo Winegard and the nature of his discipline
     * 8/20: [Agora Politics](https://soundcloud.com/agora_politics/16-prediction-for-our-brave-new-world-with-cody-moser): Predictions For Our Brave New World
     * 9/22: [Every Little Thing](https://gimletmedia.com/shows/every-little-thing/kwhogzz/why-do-we-baby-talk): Why Do We Baby Talk?
-    * 11/22: [Razib Khan's Unsupervised Learning](https://razib.substack.com/p/cody-moser-universal-baby-talk#details): Universal Baby Talk
+    * 11/22: [Razib Khan's Unsupervised Learning](https://www.youtube.com/watch?v=5HIMN3CkPJw): Universal Baby Talk
