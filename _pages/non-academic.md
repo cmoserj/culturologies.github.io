@@ -33,6 +33,7 @@ Periodically I will publish some sort of an opinion or a piece on something new 
 
 * Quillette
     * 6/18: [The Dangers of Dugin’s Particularism](https://web.archive.org/web/20210917105801/https://quillette.com/2018/06/20/the-dangers-of-dugins-particularism/)
+    * 12/22: [Saving Twitter Roundtable: There needs to be a shift in our internet architecture](https://quillette.com/2022/12/14/can-elon-musk-improve-twitter-a-roundtable/) with Bo Winegard and Jim Rutt
 
 * Reason.org
     * 6/20: [Driver’s License Suspensions and Fees Unfairly Impact the Poor And Are in Need of Reform](https://reason.org/commentary/drivers-license-suspensions-and-fees-unfairly-impact-the-poor-and-are-in-need-of-reform/)
