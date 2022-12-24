@@ -20,9 +20,9 @@ Education and Research Experience
 
 Publications
 ======
+* 2023
+  * <b>Moser, C.</b> & Smaldino, P. E. (In prep). Factors Which Improve Collective Problem Solving Exacerbate Inequality.
 * 2022
-  * <b>Moser, C.</b> & Smaldino, P. E. (In prep). The Network Science of Cumulative Innovations.
-
   * Falandays, J. B., Kaaronen, R. O., <b>Moser, C. J.</b>, Rorot, W., Tan, J., Varma, V., … Youngblood, M. All Intelligence is Collective Intelligence. <i>Submitted</i>. Preprint: [https://psyarxiv.com/jhrp6](https://psyarxiv.com/jhrp6)
 
   * Smaldino, P.E., <b>Moser, C.</b>, Peréz Velilla, A., Werling, M. Maintaining transient diversity is a general principle for improving collective problem solving. <i>Submitted</i>. Preprint: [https://osf.io/preprints/socarxiv/ykrv5/](https://osf.io/preprints/socarxiv/ykrv5/)
