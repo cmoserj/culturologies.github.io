@@ -22,4 +22,6 @@ Selected Media Coverage
 
 <i>NPR, Goats and Soda</i>: [Scholars confirm what itsy bitsy babies around the world already know](https://www.npr.org/sections/goatsandsoda/2022/08/14/1116524222/scholars-confirm-what-itsy-bitsy-babies-around-the-world-already-know) (08/14/2022)
 
- <embed src="https://culturologies.co/files/Moser_CV.pdf" type="application/pdf" width="500px" height="500px" />
+Full CV
+======
+ <embed src="https://culturologies.co/files/Moser_CV.pdf" type="application/pdf" width="450px" height="500px" />
