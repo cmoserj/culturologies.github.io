@@ -8,6 +8,5 @@ image: <img src="/images/inequality.png"/>
 paperurl: 'https://osf.io/preprints/socarxiv/n3hc6'
 citation: '<b>Moser, C.</b>, & Smaldino, P.E (2023).Innovation-Facilitating Networks Create Inequality. <i>Submitted</i>.'
 ---
-We suggest that the accounts offered by the target articles could be strengthened by acknowledging the role of group selection and cultural niche construction in shaping the evolutionary trajectory of human music. We argue that group level traits and highly variable cultural niches can explain the diversity of human song, but the target articles' accounts are insufficient to explain such diversity.
 
 [Download paper here](https://culturologies.co/files/Inequality.pdf)

@@ -41,6 +41,9 @@ Periodically I will publish some sort of an opinion or a piece on something new 
 * Hungarian Conservative
     * 12/22: [The Ties That Bind Us](https://culturologies.co/files/HungarianConservative.pdf) Print Edition Special Issue on Conservatism and Innovation
 
+* Works in Progress Magazine
+    * 2/23: [On the origins of empathy for other species](https://worksinprogress.co/issue/on-the-origins-of-empathy-for-other-species)
+
 * Podcasts
     * 1/19: [Two for Tea](https://soundcloud.com/twoforteapodcast/14-william-buckner-and-cody-moser) with William Buckner: Sex, Violence, and Our Evolutionary Heritage
     * 10/19: [Andrea with the Bangs](https://www.youtube.com/watch?v=CDT7hjhUauI): Human Behavior and Tribalism
