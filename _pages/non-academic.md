@@ -52,3 +52,4 @@ Periodically I will publish some sort of an opinion or a piece on something new 
     * 8/20: [Agora Politics](https://soundcloud.com/agora_politics/16-prediction-for-our-brave-new-world-with-cody-moser): Predictions For Our Brave New World
     * 9/22: [Every Little Thing](https://gimletmedia.com/shows/every-little-thing/kwhogzz/why-do-we-baby-talk): Why Do We Baby Talk?
     * 11/22: [Razib Khan's Unsupervised Learning](https://www.youtube.com/watch?v=5HIMN3CkPJw): Universal Baby Talk
+    * 6/23: [Hacking State](https://hackingstate.substack.com/p/4-cody-moser-the-science-of-innovation): The Science of Innovation, Core-Periphery Networks, Internet Polarization
