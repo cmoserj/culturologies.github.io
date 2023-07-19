@@ -21,7 +21,7 @@ My research takes a broad approach to study the evolution of humans and the soci
 
 What else?
 ====
-I also have an amateur interest in Byzantine and Central European history, the history and philosophy of science, and am learning to text scrape historical documents for citation analysis for fun. I also have flintknapping and primitive archery as my favorite hobbies.
+I also have an amateur interest in Byzantine and Central European history, the history and philosophy of science, and often do text scraping of historical documents for exploratory citation analyses. Flintknapping and primitive archery are among my favorite hobbies.
 
 Here is a plot I made by text-scraping a number of first-edition documents in evolutionary biology published during the first ten years after Darwin's Origin of Species. I am interested in the relationship between path dependence and innovation and would like to identify people with important insights that history may have forgottten.
 
