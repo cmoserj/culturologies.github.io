@@ -29,7 +29,7 @@ Periodically I will publish some sort of an opinion or a piece on something new 
     * 2019/24.3: [The Enigma of Stephen Jay Gould](https://culturologies.wordpress.com/2020/04/08/the-enigma-of-stephen-jay-gould/)
 
 * Lapsus Lima
-    * 10/19: [Joker: Age of Discord](http://www.lapsuslima.com/joker-age-of-discord/)
+    * 10/19: [Joker: Age of Discord](https://web.archive.org/web/20230322182602/http://www.lapsuslima.com/joker-age-of-discord/)
 
 * Quillette
     * 6/18: [The Dangers of Dugin’s Particularism](https://web.archive.org/web/20210917105801/https://quillette.com/2018/06/20/the-dangers-of-dugins-particularism/)
