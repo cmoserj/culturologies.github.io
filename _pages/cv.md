@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-Here you can find [my full CV](https://culturologies.co/files/Moser_CV.pdf) and, below it, selected media coverage of my work. Please visit my [Publications and Papers](https://culturologies.co/publications) page for full copies of all of the publications listed below.
+Here you can find [my full CV](https://culturologies.co/files/Moser_CV.pdf) and selected media coverage of my work. Please visit my [Publications and Papers](https://culturologies.co/publications) page for full copies of all of the publications listed below.
 
  Selected Media Coverage
 ======

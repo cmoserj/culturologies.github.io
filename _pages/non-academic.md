@@ -48,7 +48,7 @@ Periodically I will publish some sort of an opinion or a piece on something new 
     * 1/19: [Two for Tea](https://soundcloud.com/twoforteapodcast/14-william-buckner-and-cody-moser) with William Buckner: Sex, Violence, and Our Evolutionary Heritage
     * 10/19: [Andrea with the Bangs](https://www.youtube.com/watch?v=CDT7hjhUauI): Human Behavior and Tribalism
     * 2/20: [Agora Politics](https://podcasts.apple.com/us/podcast/1-digging-at-the-universal-substrate-with-cody-moser/id1496531814?i=1000464335203): Digging at the Universal Substrate
-    * 3/20: [Brown Pundits](https://www.brownpundits.com/2020/03/10/browncast-episode-83-an-evolutionary-anthropologist-on-the-gre-bo-winegard-and-the-nature-of-his-discipline/): An evolutionary anthropologist on the GRE, Bo Winegard and the nature of his discipline
+    * 3/20: [Brown Pundits](https://www.brownpundits.com/2020/03/10/browncast-episode-83-an-evolutionary-anthropologist-on-the-gre-bo-winegard-and-the-nature-of-his-discipline/): An evolutionary anthropologist on the GRE and the nature of his discipline
     * 8/20: [Agora Politics](https://soundcloud.com/agora_politics/16-prediction-for-our-brave-new-world-with-cody-moser): Predictions For Our Brave New World
     * 9/22: [Every Little Thing](https://gimletmedia.com/shows/every-little-thing/kwhogzz/why-do-we-baby-talk): Why Do We Baby Talk?
     * 11/22: [Razib Khan's Unsupervised Learning](https://www.youtube.com/watch?v=5HIMN3CkPJw): Universal Baby Talk
