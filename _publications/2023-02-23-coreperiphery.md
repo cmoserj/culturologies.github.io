@@ -6,7 +6,7 @@ excerpt: 'Previous investigations into creative and innovation networks have sug
 date: 2023-02-23
 venue: 'Proc. of the 22nd International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2023), London, United Kingdom, May 29 – June 2, 2023'
 image: <img src="/images/coreperiphery.png"/>
-paperurl: 'https://arxiv.org/abs/2302.12121'
+paperurl: 'https://dl.acm.org/doi/abs/10.5555/3545946.3598897'
 citation: 'Milzman, J. & <b>Moser, C.</b> (2023). Decentralized core-periphery structure in social networks accelerates cultural innovation in agent-based model. <i>In Proc. of the 22nd International Conference on Autonomous Agents and Multiagent Systems (AAMAS2023), London, United Kingdom, May 29 – June 2, 2023, IFAAMAS</i>.'
 ---
 
