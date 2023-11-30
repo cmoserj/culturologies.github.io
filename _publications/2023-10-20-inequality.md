@@ -7,8 +7,8 @@ While population models have shown factors including population size, connectivi
 date: 2023-10-20
 venue: 'Proceedings of the Royal Society B: Biological Sciences'
 image: <img src="/images/inequality.png"/>
-paperurl: 'https://osf.io/preprints/socarxiv/n3hc6'
+paperurl: 'https://royalsocietypublishing.org/doi/10.1098/rspb.2023.2281'
 citation: '<b>Moser, C.</b>, & Smaldino, P.E (2023).Innovation-Facilitating Networks Create Inequality. <i>Proceedings of the Royal Society B: Biological Sciences, 290</i>: 20232281.'
 ---
 
-[Download paper here](https://culturologies.co/files/Inequality.pdf)
+[Download paper here](http://culturologies.co/files/Inequality.pdf)
