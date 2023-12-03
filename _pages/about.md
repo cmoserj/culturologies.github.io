@@ -9,7 +9,7 @@ redirect_from:
 ---
 My name is Cody Moser. I am a PhD student in the [Department of Cognitive and Information Sciences](https://cogsci.ucmerced.edu/) at UC Merced and an [Oskar Morgenstern Fellow](https://asp.mercatus.org/students#4) at The Mercatus Center at George Mason University.
 
-I work on questions related to the evolution of human behavior and human institutions. To do this, I build agent-based models and perform large-scale corpus analyses of text and audio data. You can find more information about me and my research under my [Biography](https://culturologies.co/bio) and can read all of my papers under [Publications and Papers](https://culturologies.co/publications).
+I work on questions examining the relationship between structure and adaptation in social, biological, economic, and neural systems. To do this, I employ network theory, agent-based modeling, and large-scale corpus analysis.
 
 Please reach out to me either via [email](mailto:cmoser2@ucmerced.edu) or on [Twitter](https://twitter.com/LTF_01) if you would like to chat.
 
