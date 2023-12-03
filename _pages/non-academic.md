@@ -4,7 +4,7 @@ title: "Non-Academic Publications"
 permalink: /non-academic/
 author_profile: true
 ---
-Periodically I will publish some sort of an opinion or a piece on something new in science outside of academic venues. Those and all of my podcast appearances are listed here.
+Periodically I will publish an opinion or piece outside of academic venues. Those and all of my podcast appearances are listed here.
 
 * My [Wordpress Blog](https://culturologies.wordpress.com/) (30,000 unique visitors since 2018):
     * [The Meat Paradox: Empathy with Our Food](https://culturologies.wordpress.com/2021/01/01/the-meat-paradox-empathy-with-our-food/)
@@ -18,18 +18,14 @@ Periodically I will publish some sort of an opinion or a piece on something new 
 * My [Medium Blog](https://medium.com/@LTF_01): 
     * [Against Scientism](https://medium.com/@LTF_01/against-scientism-5335fbfaeacf)
 
-* Areo Magazine
-    * 6/18: [The Selfish Nature of Human Cooperation](https://areomagazine.com/2018/06/01/the-selfish-nature-of-human-cooperation/)
-    * 11/18: [Alice Dreger’s Middle Finger – Sex Gender, and Unhelpful Hair-Splitting](https://areomagazine.com/2018/11/26/alice-dregers-middle-finger-sex-gender-and-unhelpful-hair-splitting/)
-    * 1/19: [“Is Science Racist?” Book Review.](https://areomagazine.com/2019/01/18/is-science-racist-book-review/)
-    * 5/19: [There’s Little Reason to Worry About the SAT’s New Adversity Score](https://areomagazine.com/2019/05/30/theres-little-reason-to-worry-about-the-sats-new-adversity-score/)
-    * 3/20: [Freeman Dyson: In Memoriam](https://areomagazine.com/2020/03/06/freeman-dyson-in-memoriam/)
+* Works in Progress Magazine
+    * 2/23: [On the origins of empathy for other species](https://worksinprogress.co/issue/on-the-origins-of-empathy-for-other-species)
 
 * Skeptic Magazine
     * 2019/24.3: [The Enigma of Stephen Jay Gould](https://culturologies.wordpress.com/2020/04/08/the-enigma-of-stephen-jay-gould/)
 
-* Lapsus Lima
-    * 10/19: [Joker: Age of Discord](https://web.archive.org/web/20230322182602/http://www.lapsuslima.com/joker-age-of-discord/)
+* Hungarian Conservative
+    * 12/22: [The Ties That Bind Us](https://culturologies.co/files/HungarianConservative.pdf) Print Edition Special Issue on Conservatism and Innovation
 
 * Quillette
     * 6/18: [The Dangers of Dugin’s Particularism](https://web.archive.org/web/20210917105801/https://quillette.com/2018/06/20/the-dangers-of-dugins-particularism/)
@@ -38,11 +34,15 @@ Periodically I will publish some sort of an opinion or a piece on something new 
 * Reason.org
     * 6/20: [Driver’s License Suspensions and Fees Unfairly Impact the Poor And Are in Need of Reform](https://reason.org/commentary/drivers-license-suspensions-and-fees-unfairly-impact-the-poor-and-are-in-need-of-reform/)
 
-* Hungarian Conservative
-    * 12/22: [The Ties That Bind Us](https://culturologies.co/files/HungarianConservative.pdf) Print Edition Special Issue on Conservatism and Innovation
+* Lapsus Lima
+    * 10/19: [Joker: Age of Discord](https://web.archive.org/web/20230322182602/http://www.lapsuslima.com/joker-age-of-discord/)
 
-* Works in Progress Magazine
-    * 2/23: [On the origins of empathy for other species](https://worksinprogress.co/issue/on-the-origins-of-empathy-for-other-species)
+* Areo Magazine
+    * 6/18: [The Selfish Nature of Human Cooperation](https://areomagazine.com/2018/06/01/the-selfish-nature-of-human-cooperation/)
+    * 11/18: [Alice Dreger’s Middle Finger – Sex Gender, and Unhelpful Hair-Splitting](https://areomagazine.com/2018/11/26/alice-dregers-middle-finger-sex-gender-and-unhelpful-hair-splitting/)
+    * 1/19: [“Is Science Racist?” Book Review.](https://areomagazine.com/2019/01/18/is-science-racist-book-review/)
+    * 5/19: [There’s Little Reason to Worry About the SAT’s New Adversity Score](https://areomagazine.com/2019/05/30/theres-little-reason-to-worry-about-the-sats-new-adversity-score/)
+    * 3/20: [Freeman Dyson: In Memoriam](https://areomagazine.com/2020/03/06/freeman-dyson-in-memoriam/)
 
 * Podcasts
     * 1/19: [Two for Tea](https://soundcloud.com/twoforteapodcast/14-william-buckner-and-cody-moser) with William Buckner: Sex, Violence, and Our Evolutionary Heritage
