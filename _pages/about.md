@@ -9,7 +9,7 @@ redirect_from:
 ---
 My name is Cody Moser. I am a PhD student in the [Department of Cognitive and Information Sciences](https://cogsci.ucmerced.edu/) at UC Merced and an [Oskar Morgenstern Fellow](https://asp.mercatus.org/students#4) at The Mercatus Center at George Mason University.
 
-I work on questions examining the relationship between structure and adaptation in social, biological, economic, and neural systems. To do this, I employ network theory, agent-based modeling, and large-scale corpus analysis.
+I work on questions examining the relationship between structure and adaptation in social, biological, economic, and neural systems from a complex systems perspective. To do this, I utilize methods from network theory, agent-based modeling, and large-scale corpus analysis.
 
 Please reach out to me either via [email](mailto:cmoser2@ucmerced.edu) or on [Twitter](https://twitter.com/LTF_01) if you would like to chat.
 
