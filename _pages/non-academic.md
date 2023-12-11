@@ -53,3 +53,4 @@ Periodically I will publish an opinion or piece outside of academic venues. Thos
     * 9/22: [Every Little Thing](https://gimletmedia.com/shows/every-little-thing/kwhogzz/why-do-we-baby-talk): Why Do We Baby Talk?
     * 11/22: [Razib Khan's Unsupervised Learning](https://www.youtube.com/watch?v=5HIMN3CkPJw): Universal Baby Talk
     * 6/23: [Hacking State](https://hackingstate.substack.com/p/4-cody-moser-the-science-of-innovation): The Science of Innovation, Core-Periphery Networks, Internet Polarization
+    * 12/23: [Razib Khan's Unsupervised Learning](https://www.razibkhan.com/p/cody-moser-the-adaptive-landscape): The adaptive landscape of cultural evolution
