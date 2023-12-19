@@ -54,3 +54,4 @@ Periodically I will publish an opinion or piece outside of academic venues. Thos
     * 11/22: [Razib Khan's Unsupervised Learning](https://www.youtube.com/watch?v=5HIMN3CkPJw): Universal Baby Talk
     * 6/23: [Hacking State](https://hackingstate.substack.com/p/4-cody-moser-the-science-of-innovation): The Science of Innovation, Core-Periphery Networks, Internet Polarization
     * 12/23: [Razib Khan's Unsupervised Learning](https://www.razibkhan.com/p/cody-moser-the-adaptive-landscape): The adaptive landscape of cultural evolution
+    * 12/23: [The Jim Rutt Show](https://www.jimruttshow.com/cody-moser/): Cody Moser on Inequality and Innovation

@@ -12,6 +12,8 @@ Here you can find [my full CV](https://culturologies.co/files/Moser_CV.pdf) and 
 
  Selected Media Coverage
 ======
+<i>The Jim Rutt Show</i>: [Cody Moser on Inequality and Innovation](https://www.jimruttshow.com/cody-moser/) (12/19/2023)
+
 <i>The Guardian: Gaga for goo goo</i>: [Wellington named the global capital of baby talk](https://www.theguardian.com/world/2022/jul/22/gaga-for-goo-goo-wellington-named-the-global-capital-of-baby-talk) (07/22/2022)
 
 <i>New York Times</i>: Front cover, [‘Parentese’ Is Truly a Lingua Franca, Global Study Finds](https://www.nytimes.com/2022/07/24/science/parentese-babies-global-language.html) (07/25/2022)
