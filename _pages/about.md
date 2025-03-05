@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is Cody Moser. I am a PhD candidate and Fletcher Jones Fellow in the [Department of Cognitive and Information Sciences](https://cogsci.ucmerced.edu/) at UC Merced, and a [2024 Junior Fellow](https://www.theihs.org/) at The Institute for Humane Studies. In 2025, I will be an incoming Assistant Professor at the [School of Collective Intelligence}(https://sci.um6p.ma/) at Mohammed VI Polytechnic University.
+My name is Cody Moser. I am a PhD candidate and Fletcher Jones Fellow in the [Department of Cognitive and Information Sciences](https://cogsci.ucmerced.edu/) at UC Merced, and a [2024 Junior Fellow](https://www.theihs.org/) at The Institute for Humane Studies. In 2025, I will be an incoming Assistant Professor at the [School of Collective Intelligence](https://sci.um6p.ma/) at Mohammed VI Polytechnic University.
 
 I work on questions examining the relationship between structure and adaptation in social, biological, economic, and neural systems from a complex systems perspective. To do this, I utilize methods from network theory, agent-based modeling, and large-scale corpus analysis.
 
