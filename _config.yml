@@ -82,9 +82,7 @@ analytics:
 author:
   name             : "Cody Moser"
   avatar           : "cody.jpg"
-  bio    : |
-    PhD Candidate, University of California, Merced  
-    Incoming Professor, School of Collective 
+  bio              : "Incoming Professor, UM6P School of Collective Intelligence"
   location         : 
   employer         : "UC Merced"
   pubmed           : 
