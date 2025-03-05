@@ -82,7 +82,9 @@ analytics:
 author:
   name             : "Cody Moser"
   avatar           : "cody.jpg"
-  bio              : "PhD Candidate, University of California, Merced"
+  bio    : |
+    PhD Candidate, University of California, Merced  
+    Incoming Professor, School of Collective 
   location         : 
   employer         : "UC Merced"
   pubmed           : 
