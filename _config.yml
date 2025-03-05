@@ -10,7 +10,9 @@ locale                   : "en-US"
 title                    : "Cody Moser"
 title_separator          : "-"
 name                     : &name "Cody Moser"
-description              : &description "PhD Student, University of California, Merced"
+description: |
+  PhD Student, University of California, Merced  
+  Incoming Professor, School of Collective Intelligence, UM6P
 url                      : https://culturologies.co # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cmoserj/culturologies.github.io"
