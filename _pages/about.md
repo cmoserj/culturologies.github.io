@@ -17,3 +17,5 @@ In the meantime, here's a collaboration network I made of my department. We have
 ![Department](http://culturologies.co/images/Dept22.png)
 
 <em>The strong message for successful ongoing adaptive evolution is ‘Keep a masterpiece and, at the same time, continue to explore adaptive space with mutational variants.’</em> - [Toquenaga & Wade, 1996](https://culturologies.co/files/toquenaga1996.pdf)
+
+<em>"In a higher world it is otherwise, but here below to live is to change, and to be perfect is to have changed often."</em> - [John Henry Newman, On the Development of Ideas](https://culturologies.co/files/Newman.pdf)
