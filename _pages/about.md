@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is Cody Moser. I am an Assistant Professor at the [School of Collective Intelligence](https://sci.um6p.ma/) at Mohammed VI Polytechnic University. I previously earned my PhD in [Cognitive and Information Sciences](https://cogsci.ucmerced.edu/) at UC Merced and was a visiting graduate fellow at [The Music Lab](https://www.themusiclab.org/) at Harvard University.
+My name is Cody Moser. I am an Assistant Professor at the [School of Collective Intelligence](https://sci.um6p.ma/) at Mohammed VI Polytechnic University. I earned my PhD in [Cognitive and Information Sciences](https://cogsci.ucmerced.edu/) at UC Merced and was previously a visiting graduate fellow at [The Music Lab](https://www.themusiclab.org/) at Harvard University.
 
 I work on questions examining the relationship between structure and adaptation in social, biological, economic, and neural systems from a complex systems perspective. To do this, I utilize methods from network theory, agent-based modeling, and large-scale corpus analysis.
 
