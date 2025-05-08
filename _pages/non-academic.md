@@ -57,3 +57,4 @@ Periodically I will publish an opinion or piece outside of academic venues. Thos
     * 12/23: [The Jim Rutt Show](https://www.jimruttshow.com/cody-moser/): Cody Moser on Inequality and Innovation
     * 12/24: [Hacking State](https://www.alexmurshak.com/p/cody-moser-systems-intelligence-and): Systems Intelligence and the Mysteries of Life
     * 3/24: [Speech Therapy PD](https://youtu.be/iOaoDgZoSrk?si=zFtyoySmw2rrzmNR): Collective Intelligence, Language, and Lullabies
+    * 4/25: [The Dissenter](https://youtu.be/27K8fi1CDGg?si=pzj6DTpwD_xRXl37): Collective Intelligence and Cultural Innovation
